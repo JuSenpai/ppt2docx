@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "docx": "^7.1.2",
+    "docx": "^8.2.3",
     "domutils": "^2.8.0",
     "htmlparser2": "^7.1.2",
     "minimist": "^1.2.5",
